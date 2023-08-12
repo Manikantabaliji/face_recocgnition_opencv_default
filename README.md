@@ -25,14 +25,23 @@ Getting Started:
 
    Example directory structure:
    D:/Face_rec/images/
+   
    ├── person1/
+   
    │   ├── image1.jpg
+   
    │   ├── image2.jpg
+   
    │   └── ...
+   
    ├── person2/
+   
    │   ├── image1.jpg
+   
    │   ├── image2.jpg
+   
    │   └── ...
+   
    └── ...
 
 Training (train.py):
